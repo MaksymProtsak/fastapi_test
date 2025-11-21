@@ -1,6 +1,6 @@
 # fastapi_test
 
-For start program run:
+For start program local run:
 ```sh
   uvicorn main:app --reload
 ```
