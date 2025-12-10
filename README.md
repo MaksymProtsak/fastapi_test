@@ -5,6 +5,16 @@ For start program local run:
   uvicorn main:app --reload
 ```
 
+Endpoint `/`
+```
+request:
+/
+
+response:
+{"message": "Hello, World!"}
+```
+
+
 Endpoint `/items/{item_id}`
 ```
 request:
